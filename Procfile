@@ -1,1 +1,1 @@
-web: node ./bin/browserify-cdn
+web: node ./bin/browserify-cdn 
